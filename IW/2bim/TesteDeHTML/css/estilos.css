@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, Helvetica, sans-serif ;
+}
+
+.container {
+    background-color: rgba(0, 0, 0, 0.484);
+    border-radius: 1%;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+    color: rgb(255, 0, 0);
+}
+
+.titulo {
+    font-size: 50px;
+}
+
+.conteudo {
+    padding: 5%;
+    align-items: center;
+    background-color: rgba(255, 255, 255, 0.137)
+}
+
+main {
+    background-color: rgb(255, 255, 255);
+    display: flex;
+}
+
+nav {
+    text-align: end;
+    background-color: aquamarine
+}
+footer {
+    text-align: center;
+}
+
+.imagi {
+    padding-top: 15px;
+    text-align: center;
+}
+
+.imagem {
+    width: 10%;
+}
